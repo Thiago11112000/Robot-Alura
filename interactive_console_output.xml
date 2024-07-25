@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 7.0.1 (Python 3.12.3 on win32)" generated="2024-07-24T15:26:05.508934" rpa="false" schemaversion="5">
+<robot generator="Robot 7.0.1 (Python 3.12.3 on win32)" generated="2024-07-25T10:09:15.002745" rpa="false" schemaversion="5">
 <suite id="s1" name="Robot Interactive Console" source="c:\Users\Thiago Martins da Si\.vscode\extensions\robocorp.robotframework-lsp-1.12.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
 <test id="s1-t1" name="Default Task/Test" line="5">
 <kw name="Interpreter Main Loop" owner="MainLoop">
-<status status="PASS" start="2024-07-24T15:26:05.534000" elapsed="5.642859"/>
+<status status="PASS" start="2024-07-25T10:09:15.029056" elapsed="4.183227"/>
 </kw>
-<status status="PASS" start="2024-07-24T15:26:05.534000" elapsed="5.642859"/>
+<status status="PASS" start="2024-07-25T10:09:15.029056" elapsed="4.183227"/>
 </test>
-<status status="PASS" start="2024-07-24T15:26:05.509919" elapsed="5.667914"/>
+<status status="PASS" start="2024-07-25T10:09:15.003723" elapsed="4.209534"/>
 </suite>
 <statistics>
 <total>
@@ -20,6 +20,7 @@
 </suite>
 </statistics>
 <errors>
-<msg time="2024-07-24T15:26:05.503094" level="WARN">Error in file 'c:\Users\Thiago Martins da Si\.vscode\extensions\robocorp.robotframework-lsp-1.12.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot' on line 4: Singular section headers like '*** Test Case ***' are deprecated. Use plural format like '*** Test Cases ***' instead.</msg>
+<msg time="2024-07-25T10:09:14.997880" level="WARN">Error in file 'c:\Users\Thiago Martins da Si\.vscode\extensions\robocorp.robotframework-lsp-1.12.0\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot' on line 4: Singular section headers like '*** Test Case ***' are deprecated. Use plural format like '*** Test Cases ***' instead.</msg>
+<msg time="2024-07-25T10:09:15.517530" level="ERROR">Error in file 'None' on line 2: Creating keyword '' failed: User keyword name cannot be empty.</msg>
 </errors>
 </robot>
